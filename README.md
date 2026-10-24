@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is archived and no longer maintained. STF does not use it.
+
 # ios-minicap
 
 iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices. It is built with AVFoundation and iOS Screen mirroring feature.
